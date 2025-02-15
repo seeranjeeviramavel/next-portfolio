@@ -96,7 +96,7 @@ export const DATA = {
       href: "#",
       dates: "2023 - Present",
       active: true,
-      image: "/Vzee.png",
+      image: "/NoCodePlatform.png",
       description:
         "Designed and developed a robust dynamic rendering system for a hybrid CRM application. Implemented caching mechanisms that resulted in a 30% reduction in loading times. Integrated drag-and-drop features to simplify user interface customization, making it more accessible for non-technical users. Enhanced overall performance and scalability to support growing business needs.",
       technologies: [
