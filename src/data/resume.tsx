@@ -54,6 +54,12 @@ export const DATA = {
         icon: Icons.email,
         navbar: true,
       },
+      googleDrive: {
+        name: "Resume",
+        url: "https://drive.google.com/drive/folders/1yGrvVMcly0ROss7cbzYuCxMRMW_xUWua?usp=drive_link",
+        icon: Icons.googleDrive,
+        navbar: true,
+      },
     },
   },
   work: [
@@ -109,8 +115,6 @@ export const DATA = {
       ],
       links: [],
     },
-
-
 
     {
       title: "FormEasePro",
@@ -171,7 +175,7 @@ export const DATA = {
       image:
         "https://media.licdn.com/dms/image/v2/D562DAQFQqOaM6PRWlg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729947207854?e=1740081600&v=beta&t=gR6d5Rc6_AwUTqKYlGGbVTYNfOJh8383IbhNByJGr5w",
       active: true,
-  
+
       description:
         "Designed and implemented an AI-powered mock interview platform offering personalized interview questions and real-time feedback. Integrated secure user authentication, speech recognition, and webcam features for immersive user experiences. The platform enables users to practice interviews in various domains and receive actionable insights for improvement.",
       technologies: [
@@ -228,7 +232,7 @@ export const DATA = {
       href: "https://suvarotti.com/",
       dates: "2023 - Present",
       active: true,
-      image:"/Suvarotti.png",
+      image: "/Suvarotti.png",
       description:
         "Developed the platform with a mobile-first design, ensuring seamless usability across all devices. Implemented lazy loading and caching mechanisms to significantly enhance performance and reduce page load times. Optimized image handling for better visual quality and faster rendering. Upgraded the admin panel with an intuitive and user-friendly interface, empowering administrators with efficient control over products and categories.",
       technologies: [
@@ -273,7 +277,6 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      
     },
     {
       title: "CryptoKing",
