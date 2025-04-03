@@ -127,7 +127,7 @@ export const DATA = {
       technologies: ["React", "Shadcn UI", "Tailwind CSS"],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://formeasepro.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
@@ -157,7 +157,7 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://getsignature.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
@@ -187,7 +187,7 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://mockminds-demo.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
@@ -216,7 +216,7 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://career-compass-demo.web.app",
           icon: <Icons.globe className="size-3" />,
         },
@@ -228,7 +228,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Ecommerce Website",
+      title: "Ecommerce Visit Live",
       href: "https://suvarotti.com/",
       dates: "2023 - Present",
       active: true,
@@ -244,12 +244,12 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://suvarotti.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://wingskart.co.in/",
           icon: <Icons.globe className="size-3" />,
         },
@@ -267,7 +267,7 @@ export const DATA = {
       technologies: ["React.js", "Next.js", "PostgreSQL", "Tailwind CSS"],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://react-sql-query-editor.netlify.app/",
           icon: <Icons.globe className="size-3" />,
         },
@@ -298,7 +298,7 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://cryptoking-demo.netlify.app/",
           icon: <Icons.globe className="size-3" />,
         },
@@ -321,7 +321,7 @@ export const DATA = {
       technologies: ["HTML", "CSS", "JavaScript"],
       links: [
         {
-          type: "Website",
+          type: "Visit Live",
           href: "https://eduplay-demo.netlify.app/",
           icon: <Icons.globe className="size-3" />,
         },
