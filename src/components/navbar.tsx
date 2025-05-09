@@ -22,7 +22,6 @@ export default function Navbar() {
               <TooltipTrigger asChild>
                 <Link
                   href={item.href}
-                   target="__blank"
                   className={cn(
                     buttonVariants({ variant: "ghost", size: "icon" }),
                     "size-12"
@@ -46,7 +45,7 @@ export default function Navbar() {
                 <TooltipTrigger asChild>
                   <Link
                     href={social.url}
-                     target="__blank"
+                    target={name=="email" ? "": "__blank"}
                     className={cn(
                       buttonVariants({ variant: "ghost", size: "icon" }),
                       "size-12"
