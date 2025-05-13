@@ -52,7 +52,7 @@ skills: [
     "Gitea",
     "Selenium Testing",
     "Playwright",
-]
+],
 
   navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
