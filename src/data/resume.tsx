@@ -95,7 +95,7 @@ skills: [
       logoUrl:
         "https://media.licdn.com/dms/image/v2/C4E0BAQGgwwOcpg4iew/company-logo_200_200/company-logo_200_200/0/1630610037076/vivant360_logo?e=1747267200&v=beta&t=jXhwHhDbYQcmeAjalmOZoQpEUcfW6iZabrnRO8Vgj3c",
       start: "June 2023",
-      end: "Present",
+      end: "July 2025",
       description:
         "Developed and maintained scalable web applications using React.js, Redux, and Tailwind CSS. Integrated REST APIs and optimized performance, improving load times by 30%.",
     },
@@ -107,7 +107,7 @@ skills: [
       degree: "Master of Business Administration",
       logoUrl: "http://alagappauniversity.ac.in/img/core-img/logo2.png",
       start: "2023",
-      end: "Present",
+      end: "2025",
     },
     {
       school: "St. Xaviers College (Autonomous), Palayamkottai",
